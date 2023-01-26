@@ -1,0 +1,10 @@
+янв. 26, 2023 9:51:33 PM Program2 main
+INFO: Application started and constructed.
+янв. 26, 2023 9:51:33 PM Program2 main
+INFO: Проверка наличия файла
+янв. 26, 2023 9:51:33 PM Program2 main
+INFO: Открытие потока на запись в файл
+янв. 26, 2023 9:51:46 PM Program2 validate
+INFO: Проверка введенной строки
+янв. 26, 2023 9:51:46 PM Program2 main
+INFO: Закрытие файла
